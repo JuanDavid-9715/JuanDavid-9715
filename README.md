@@ -135,5 +135,5 @@
 </table>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDavid-9715&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs"  width="83%" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDavid-9715&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs"  width="60%" />
 </p>
