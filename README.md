@@ -14,9 +14,9 @@
     </a>
 </p>
 
-<table>
+<table align="center">
     <tr>
-        <th><h2 align="left">Skills</h2></th>
+        <caption><h2 align="left">Skills</h2></caption>
     </tr>
     <tr>
         <th><h3 align="left">Programming Languages</h3></th>
@@ -25,7 +25,7 @@
         <th><h3 align="left">Database</h3></th>
     </tr>
     <tr>
-        <th>
+        <td>
             <p align="left">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -43,8 +43,8 @@
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
                 </a>
             </p>
-        </th>
-        <th>
+        </td>
+        <td>
             <p align="left">
                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -62,8 +62,8 @@
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
                 </a>
             </p>
-        </th>
-        <th>
+        </td>
+        <td>
             <p align="left">
                 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -72,8 +72,8 @@
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
                 </a>
             </p>
-        </th>
-        <th>
+        </td>
+        <td>
             <p align="left">
                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -82,7 +82,55 @@
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
                 </a>
             </p>
-        </th>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+    </tr>
+    <tr>
+        <th><h3 align="left">Framework</h3></th>
+        <th><h3 align="left">Testing</h3></th>
+        <th><h3 align="left">Software</h3></th>
+        <th><h3 align="left">Software</h3></th>
+    </tr>
+    <tr>
+        <td>
+            <p align="left">
+                <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+                    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+                </a>
+                <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+                    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+                </a>
+            </p>
+        </td>
+        <td>
+            <p align="left">
+                <a href="https://mochajs.org" target="_blank" rel="noreferrer">
+                    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
+                </a>
+            </p>
+        </td>
+        <td>
+            <p align="left">
+                <a href="https://postman.com" target="_blank" rel="noreferrer">
+                    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+                </a>
+                <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+                </a>
+            </p>
+        </td>
+        <td>
+            <p align="left">
+                <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+                </a>
+                <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+                </a>
+            </p>
+        </td>
     </tr>
 </table>
 
