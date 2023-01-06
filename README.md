@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan David Medellin Calderon</h1>
 
-<img src="https://github.com/JuanDavid-9715/JuanDavid-9715/blob/main/" alt="BannerGitHub"/>
+<img src="https://github.com/JuanDavid-9715/JuanDavid-9715/blob/main/BannerGitHub.png" alt="BannerGitHub"/>
 
 <p align="right">
     <a href="https://twitter.com/Juan_D19_" target="_blank">
